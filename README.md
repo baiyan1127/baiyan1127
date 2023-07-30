@@ -1,10 +1,16 @@
 -👋你好，我是@baiyan1127
--👀我感兴趣的是...搭建网站
--🌱我目前正在学习...建立图床
--💞我想合作的️...Minecraft的up
--📫如何联系我...B站直播间7705935
+
+-I'm interested in ... building websites
+
+-I'm currently studying ... building a drawing bed.
+
+-I want to cooperate ️...Minecraft's up
+
+-How to contact me ... bilibili live room 7705935.
+
 
 <!---
-baiyan1127/baiyan1127是✨特殊✨存储库，因为它的“README.md ”(此文件)出现在您的GitHub个人资料中。
-您可以单击预览链接来查看您的更改。
+Baiyan1127/baiyan1127 is a special repository because its "README.md" (this file) appears in your GitHub profile.
+
+You can click the preview link to see your changes.
 --->
