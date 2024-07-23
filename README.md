@@ -1,12 +1,12 @@
 -👋你好，我是@baiyan1127
 
--I'm interested in ... building websites
+-I'm interested in ... 搭建论坛
 
--I'm currently studying ... building a drawing bed.
+-I'm currently studying ... 搭建一个博客和论坛.
 
--I want to cooperate ️...Minecraft's up
+-I want to cooperate ️...Minecraft视频主
 
--How to contact me ... bilibili live room 7705935.
+-How to contact me ... B站直播间地址http:live.bilibili.com/7705935.
 
 
 <!---
